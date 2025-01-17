@@ -1,5 +1,6 @@
-![Hello there](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJ5eDJiYXc2dGRnczVxdDNpZDFsMHB0MjF3eXF0bzZwbDhxeW91OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.webp)
-
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJ5eDJiYXc2dGRnczVxdDNpZDFsMHB0MjF3eXF0bzZwbDhxeW91OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.webp" />
+</p>
 
 
 <!--
